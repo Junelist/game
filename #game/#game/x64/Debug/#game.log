@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\Liang\OneDrive\桌面\cgames\(144,31): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Liang\OneDrive\桌面\cgames\(144,16): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Liang\OneDrive\桌面\cgames\(149,55): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Liang\OneDrive\桌面\cgames\(149,40): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Liang\OneDrive\桌面\cgames\(149,25): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Liang\OneDrive\桌面\cgames\(149,12): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Liang\OneDrive\桌面\cgames\(150,55): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Liang\OneDrive\桌面\cgames\(150,40): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Liang\OneDrive\桌面\cgames\(150,27): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Liang\OneDrive\桌面\cgames\(150,14): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  #game.vcxproj -> C:\Users\Liang\OneDrive\桌面\cgames\#game\x64\Debug\#game.exe
